@@ -1,5 +1,5 @@
 <?php
-echo "Begin";
+echo "Beginning";
 echo "Testing git";
 echo "End";
 ?>
